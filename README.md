@@ -1,4 +1,23 @@
-# Payload Website Template
+# Charlesworth Human Performance Payload website
+
+This is the public repo for the Charlesworth Human Performance website. It's currently in development. Not live.
+
+It's based on the Payload website template:
+
+```
+pnpx create-payload-app
+```
+
+That command installed Tailwind css 3 when I ran it, so I upgraded to tailwind 4
+
+```
+pnpx @tailwindcss/upgrade
+```
+
+Remarkably, it worked like a charm.
+
+
+# Payload Website Template detail
 
 This is the official [Payload Website Template](https://github.com/payloadcms/payload/blob/main/templates/website). Use it to power websites, blogs, or portfolios from small to enterprise. This repo includes a fully-working backend, enterprise-grade admin panel, and a beautifully designed, production-ready website.
 
