@@ -65,6 +65,8 @@
     --success: 196 52% 74%;
     --warning: 34 89% 85%;
     --error: 10 100% 86%;
+
+    --deep-green: oklch(21% 0.0362 207.44);
   }
 
   [data-theme='dark'] {
